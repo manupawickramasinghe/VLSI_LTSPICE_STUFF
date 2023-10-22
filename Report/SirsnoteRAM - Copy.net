@@ -1,4 +1,4 @@
-* D:\Downloads\VLSI\Report\SirsnoteRAM - Copy.asc
+* D:\Documents\GitHub\VLSI_LTSPICE_STUFF\Report\SirsnoteRAM - Copy.asc
 M1 N002 N003 0 N010 TestN l=10u w=20u
 M2 VCC N002 N003 N001 TestP l=10u w=40u
 M3 N003 N002 0 N007 TestN l=10u w=20u
