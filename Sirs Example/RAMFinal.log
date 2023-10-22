@@ -1,0 +1,78 @@
+Circuit: * D:\Downloads\VLSI\Sirs Example\RAMFinal.asc
+
+WARNING: Node PC is floating.
+
+WARNING: Less than two connections to node n005.  This node is used by v4.
+WARNING: Less than two connections to node read.  This node is used by v1.
+Model "testp": Oxide thickness thinner than recommended for a level 1 MOSFET.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m9": Length shorter than recommended for a level 1 MOSFET.
+Instance "m10": Length shorter than recommended for a level 1 MOSFET.
+Instance "m13": Length shorter than recommended for a level 1 MOSFET.
+Instance "m17": Length shorter than recommended for a level 1 MOSFET.
+Instance "m19": Length shorter than recommended for a level 1 MOSFET.
+Instance "m5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m6": Length shorter than recommended for a level 1 MOSFET.
+Model "testn": Oxide thickness thinner than recommended for a level 1 MOSFET.
+Instance "m3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m15": Length shorter than recommended for a level 1 MOSFET.
+Instance "m16": Length shorter than recommended for a level 1 MOSFET.
+Instance "m11": Length shorter than recommended for a level 1 MOSFET.
+Instance "m14": Length shorter than recommended for a level 1 MOSFET.
+Instance "m18": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 1.31314e-09 +++++++++++++++++++++++++++to 1.70376e-09
+Heightened Def Con from 3.10519e-09 to 3.20977e-09
+Heightened Def Con from 5.2e-09 to 5.20022e-09
+Heightened Def Con from 6.06507e-09 to 6.1293e-09
+Heightened Def Con from 1.30967e-08 ++++++++++++++++++++++++++++++++to 1.31488e-08
+Heightened Def Con from 1.60616e-08 to 1.64522e-08
+Heightened Def Con from 2.60626e-08 to 2.64533e-08
+Heightened Def Con from 3.60625e-08 to 3.60762e-08
+Heightened Def Con from 3.61e-08 to 3.61137e-08
+Heightened Def Con from 3.71e-08 +++++++++++++++++++++++++to 3.75883e-08
+Heightened Def Con from 4.30847e-08 to 4.35729e-08
+Heightened Def Con from 4.60623e-08 to 4.6076e-08
+Heightened Def Con from 4.61e-08 to 4.61366e-08
+Heightened Def Con from 4.71e-08 +++++to 4.72099e-08
+Heightened Def Con from 4.81244e-08 to 4.8515e-08
+Heightened Def Con from 5.30844e-08 to 5.32431e-08
+Heightened Def Con from 5.60621e-08 +to 5.6172e-08
+Heightened Def Con from 5.69766e-08 +++++++++++++++++++++++++to 5.75625e-08
+Heightened Def Con from 6.30859e-08 to 6.32446e-08
+Heightened Def Con from 6.6062e-08 to 6.60757e-08
+Heightened Def Con from 6.61e-08 to 6.61137e-08
+Heightened Def Con from 6.71e-08 +to 6.75028e-08
+Heightened Def Con from 6.81248e-08 to 6.85155e-08
+Heightened Def Con from 7.30846e-08 to 7.32433e-08
+Heightened Def Con from 7.60619e-08 +to 7.61718e-08
+Heightened Def Con from 7.71e-08 ++++++++++++++++++++++++++to 7.75883e-08
+Heightened Def Con from 8.30908e-08 to 8.32373e-08
+Heightened Def Con from 8.60619e-08 to 8.64525e-08
+Heightened Def Con from 8.81251e-08 to 8.85157e-08
+Heightened Def Con from 9.30845e-08 to 9.35728e-08
+Heightened Def Con from 9.60616e-08 +to 9.61715e-08
+Heightened Def Con from 9.71e-08 ++++++++++++++++++++++++++to 9.75883e-08
+
+Date: Sun Oct 22 12:17:32 2023
+Total elapsed time: 0.665 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 53646
+traniter = 53636
+tranpoints = 7643
+accept = 4389
+rejected = 3456
+matrix size = 28
+fillins = 2
+solver = Normal
+Avg thread counts: 1.1/1.5/1.5/1.1
+Matrix Compiler1: 1.77 KB object code size  1.0/0.8/[0.5]
+Matrix Compiler2: 2.31 KB object code size  0.7/1.3/[0.4]
+

@@ -1,0 +1,35 @@
+* D:\Downloads\VLSI\Report\DIfferentrw.asc
+M1 N005 N006 0 N009 TestN l=10u w=20u
+M2 VCC N005 N006 N004 TestP l=10u w=40u
+M3 N006 N005 0 N007 TestN l=10u w=20u
+M4 VCC N006 N005 N008 TestP l=10u w=40u
+M5 BL_bar WL N006 0 TestN l=10u w=20u
+M6 N005 WL BL 0 TestN l=10u w=20u
+V1 VCC 0 1.8
+V2 CS 0 PULSE(0 1.8 10n 0 0 5n 10n)
+V3 Write 0 PULSE(0 1.8 20n 100p 100p 10n 20n)
+M7 Writedata N002 0 N003 TestN l=10u w=20u
+M8 VCC N002 Writedata N001 TestP l=10u w=40u
+M9 BL_bar PCHRG BL VCC TestP l=10u w=40u
+M11 Writedata Write BL 0 TestN l=10u w=20u
+M12 N002 Write BL_bar 0 TestN l=10u w=20u
+M10 N011 N012 N013 0 TestN l=10u w=20u
+M13 VCC N011 N012 N010 TestP l=10u w=40u
+M14 N012 N011 N013 0 TestN l=10u w=20u
+M15 VCC N012 N011 N014 TestP l=10u w=40u
+M16 BL CS N011 0 TestN l=10u w=20u
+M17 BL_bar CS N012 0 TestN l=10u w=20u
+M18 N013 Sense 0 0 TestN l=10u w=20u
+M19 N012 Read 0 0 TestN l=10u w=20u
+M20 N011 Read 0 0 TestN l=10u w=20u
+V5 PCHRG 0 PULSE(0 1.8 10n 0 0 7n 10n)
+V6 Sense 0 PULSE(0 1.8 10n 0 0 8n 10n)
+V7 Read 0 PULSE(0 1.8 10n 0 0 8n 10n)
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\Manupa\AppData\Local\LTspice\lib\cmp\standard.mos
+.MODEL TestN NMOS KP=96.379u VTO=0.786 LAMBDA=0.01 TOX=21.2n GAMMA=0.5863 CGDO=402.41p CGSO=402.41p CGBO=361.44p
+.MODEL TestP PMOS KP=96.379u VTO=-0.9056 LAMBDA=0.01 TOX=21.2n GAMMA=0.4863 CGDO=53.752p CGSO=53.752p CGBO=336.5p
+.tran 100n
+.backanno
+.end
