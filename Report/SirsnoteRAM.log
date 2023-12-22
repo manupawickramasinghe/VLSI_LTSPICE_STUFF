@@ -1,4 +1,4 @@
-Circuit: * D:\Downloads\VLSI\Report\SirsnoteRAM.asc
+Circuit: * D:\Documents\GitHub\VLSI_LTSPICE_STUFF\Report\SirsnoteRAM.asc
 
 WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v2.  Increasing period to 1e-07
 Limiting rise time of source v2 to 1.98523e-23
@@ -75,6 +75,8 @@ Heightened Def Con from 1.10977e-08 ++++++++++++++++++++++++++++to 1.10981e-08
 Heightened Def Con from 1.10981e-08 ++++++++++++++++++++++++++++to 1.10984e-08
 Heightened Def Con from 1.10984e-08 ++++++++++++++++++++++++++++to 1.10988e-08
 Heightened Def Con from 1.10988e-08 ++++++++++++++++++++++++++++to 1.10992e-08
+Heightened Def Con from 1.10992e-08 ++++++++++++++++++++++++++++to 1.10992e-08
+Heightened Def Con from 1.10992e-08 ++++++++++++++++++++++++++++to 1.10992e-08
 Heightened Def Con from 1.10992e-08 +++++++++++++++++++++++++++++to 1.10996e-08
 Heightened Def Con from 1.10996e-08 +++++++++++++++++++++++++++++to 1.11013e-08
 Heightened Def Con from 1.11013e-08 +++++++++++++++++++++++++++++to 1.11015e-08
@@ -363,6 +365,11 @@ Heightened Def Con from 2.09956e-08 +++++++++++++++++++++++++++++to 2.09958e-08
 Heightened Def Con from 2.09958e-08 +++++++++++++++++++++++++++++to 2.0996e-08
 Heightened Def Con from 2.0996e-08 +++++++++++++++++++++++++++++to 2.0996e-08
 Heightened Def Con from 2.0996e-08 +++++++++++++++++++++++++++++to 2.0996e-08
+Heightened Def Con from 2.0996e-08 +++++++++++++++++++++++++++++to 2.0996e-08
+Heightened Def Con from 2.0996e-08 +++++++++++++++++++++++++++++to 2.0996e-08
+Heightened Def Con from 2.0996e-08 +++++++++++++++++++++++++++++to 2.0996e-08
+Heightened Def Con from 2.0996e-08 +++++++++++++++++++++++++++++to 2.0996e-08
+Heightened Def Con from 2.0996e-08 +++++++++++++++++++++++++++++to 2.0996e-08
 Heightened Def Con from 2.0996e-08 ++++++++++++++++++++++++++++++to 2.10937e-08
 Heightened Def Con from 2.10937e-08 ++++++++++++++++++++++++++++++to 2.1582e-08
 Heightened Def Con from 2.1582e-08 +++++++++++++++++++++++++++++to 2.17773e-08
@@ -382,7 +389,6 @@ Heightened Def Con from 2.3059e-08 +++++++++++++++++++++++++++++to 2.30712e-08
 Heightened Def Con from 2.30712e-08 +++++++++++++++++++++++++++++to 2.30834e-08
 Heightened Def Con from 2.30834e-08 +++++++++++++++++++++++++++++to 2.30972e-08
 Heightened Def Con from 2.30972e-08 +++++++++++++++++++++++++++++to 2.30989e-08
-Heightened Def Con from 2.30989e-08 +++++++++++++++++++++++++++++to 2.30989e-08
 Heightened Def Con from 2.30989e-08 +++++++++++++++++++++++++++++to 2.30989e-08
 Heightened Def Con from 2.30989e-08 +++++++++++++++++++++++++++++++to 2.36848e-08
 Heightened Def Con from 2.36848e-08 +++++++++++++++++++++++++++++to 2.37825e-08
@@ -412,6 +418,7 @@ Heightened Def Con from 2.59431e-08 +++++++++++++++++++++++++++++to 2.59553e-08
 Heightened Def Con from 2.59553e-08 +++++++++++++++++++++++++++++to 2.59675e-08
 Heightened Def Con from 2.59675e-08 +++++++++++++++++++++++++++++to 2.59797e-08
 Heightened Def Con from 2.59797e-08 +++++++++++++++++++++++++++++to 2.59935e-08
+Heightened Def Con from 2.59935e-08 +++++++++++++++++++++++++++++to 2.59935e-08
 Heightened Def Con from 2.59935e-08 ++++++++++++++++++++++++++++++to 2.65794e-08
 Heightened Def Con from 2.65794e-08 +++++++++++++++++++++++++++++to 2.67747e-08
 Heightened Def Con from 2.67747e-08 +++++++++++++++++++++++++++++to 2.697e-08
@@ -430,8 +437,6 @@ Heightened Def Con from 2.80565e-08 +++++++++++++++++++++++++++++to 2.80687e-08
 Heightened Def Con from 2.80687e-08 +++++++++++++++++++++++++++++to 2.80809e-08
 Heightened Def Con from 2.80809e-08 +++++++++++++++++++++++++++++to 2.80946e-08
 Heightened Def Con from 2.80946e-08 +++++++++++++++++++++++++++++to 2.80961e-08
-Heightened Def Con from 2.80961e-08 +++++++++++++++++++++++++++++to 2.80961e-08
-Heightened Def Con from 2.80961e-08 +++++++++++++++++++++++++++++to 2.80961e-08
 Heightened Def Con from 2.80961e-08 +++++++++++++++++++++++++++++to 2.80961e-08
 Heightened Def Con from 2.80961e-08 +++++++++++++++++++++++++++++++to 2.86821e-08
 Heightened Def Con from 2.86821e-08 +++++++++++++++++++++++++++++to 2.87797e-08
@@ -561,10 +566,6 @@ Heightened Def Con from 4.0996e-08 +++++++++++++++++++++++++++++to 4.0996e-08
 Heightened Def Con from 4.0996e-08 +++++++++++++++++++++++++++++to 4.0996e-08
 Heightened Def Con from 4.0996e-08 +++++++++++++++++++++++++++++to 4.0996e-08
 Heightened Def Con from 4.0996e-08 +++++++++++++++++++++++++++++to 4.0996e-08
-Heightened Def Con from 4.0996e-08 +++++++++++++++++++++++++++++to 4.0996e-08
-Heightened Def Con from 4.0996e-08 +++++++++++++++++++++++++++++to 4.0996e-08
-Heightened Def Con from 4.0996e-08 +++++++++++++++++++++++++++++to 4.0996e-08
-Heightened Def Con from 4.0996e-08 +++++++++++++++++++++++++++++to 4.0996e-08
 Heightened Def Con from 4.0996e-08 ++++++++++++++++++++++++++++++to 4.10937e-08
 Heightened Def Con from 4.10937e-08 ++++++++++++++++++++++++++++++to 4.1582e-08
 Heightened Def Con from 4.1582e-08 +++++++++++++++++++++++++++++to 4.17773e-08
@@ -584,6 +585,10 @@ Heightened Def Con from 4.3059e-08 +++++++++++++++++++++++++++++to 4.30712e-08
 Heightened Def Con from 4.30712e-08 +++++++++++++++++++++++++++++to 4.30834e-08
 Heightened Def Con from 4.30834e-08 +++++++++++++++++++++++++++++to 4.30972e-08
 Heightened Def Con from 4.30972e-08 +++++++++++++++++++++++++++++to 4.30989e-08
+Heightened Def Con from 4.30989e-08 +++++++++++++++++++++++++++++to 4.30989e-08
+Heightened Def Con from 4.30989e-08 +++++++++++++++++++++++++++++to 4.30989e-08
+Heightened Def Con from 4.30989e-08 +++++++++++++++++++++++++++++to 4.30989e-08
+Heightened Def Con from 4.30989e-08 +++++++++++++++++++++++++++++to 4.30989e-08
 Heightened Def Con from 4.30989e-08 +++++++++++++++++++++++++++++to 4.30989e-08
 Heightened Def Con from 4.30989e-08 +++++++++++++++++++++++++++++++to 4.36848e-08
 Heightened Def Con from 4.36848e-08 +++++++++++++++++++++++++++++to 4.37825e-08
@@ -632,7 +637,6 @@ Heightened Def Con from 4.80565e-08 +++++++++++++++++++++++++++++to 4.80687e-08
 Heightened Def Con from 4.80687e-08 +++++++++++++++++++++++++++++to 4.80809e-08
 Heightened Def Con from 4.80809e-08 +++++++++++++++++++++++++++++to 4.80946e-08
 Heightened Def Con from 4.80946e-08 +++++++++++++++++++++++++++++to 4.80961e-08
-Heightened Def Con from 4.80961e-08 +++++++++++++++++++++++++++++to 4.80961e-08
 Heightened Def Con from 4.80961e-08 +++++++++++++++++++++++++++++++to 4.86821e-08
 Heightened Def Con from 4.86821e-08 +++++++++++++++++++++++++++++to 4.87797e-08
 Heightened Def Con from 4.87797e-08 +++++++++++++++++++++++++++++to 4.88774e-08
@@ -759,6 +763,23 @@ Heightened Def Con from 6.09956e-08 +++++++++++++++++++++++++++++to 6.09958e-08
 Heightened Def Con from 6.09958e-08 +++++++++++++++++++++++++++++to 6.0996e-08
 Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
 Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
+Heightened Def Con from 6.0996e-08 +++++++++++++++++++++++++++++to 6.0996e-08
 Heightened Def Con from 6.0996e-08 ++++++++++++++++++++++++++++++to 6.10937e-08
 Heightened Def Con from 6.10937e-08 ++++++++++++++++++++++++++++++to 6.1582e-08
 Heightened Def Con from 6.1582e-08 +++++++++++++++++++++++++++++to 6.17773e-08
@@ -778,8 +799,6 @@ Heightened Def Con from 6.3059e-08 +++++++++++++++++++++++++++++to 6.30712e-08
 Heightened Def Con from 6.30712e-08 +++++++++++++++++++++++++++++to 6.30834e-08
 Heightened Def Con from 6.30834e-08 +++++++++++++++++++++++++++++to 6.30972e-08
 Heightened Def Con from 6.30972e-08 +++++++++++++++++++++++++++++to 6.30989e-08
-Heightened Def Con from 6.30989e-08 +++++++++++++++++++++++++++++to 6.30989e-08
-Heightened Def Con from 6.30989e-08 +++++++++++++++++++++++++++++to 6.30989e-08
 Heightened Def Con from 6.30989e-08 +++++++++++++++++++++++++++++++to 6.36848e-08
 Heightened Def Con from 6.36848e-08 +++++++++++++++++++++++++++++to 6.37825e-08
 Heightened Def Con from 6.37825e-08 +++++++++++++++++++++++++++++to 6.38801e-08
@@ -810,6 +829,8 @@ Heightened Def Con from 6.59675e-08 +++++++++++++++++++++++++++++to 6.59797e-08
 Heightened Def Con from 6.59797e-08 +++++++++++++++++++++++++++++to 6.59935e-08
 Heightened Def Con from 6.59935e-08 +++++++++++++++++++++++++++++to 6.59935e-08
 Heightened Def Con from 6.59935e-08 +++++++++++++++++++++++++++++to 6.59935e-08
+Heightened Def Con from 6.59935e-08 +++++++++++++++++++++++++++++to 6.59935e-08
+Heightened Def Con from 6.59935e-08 +++++++++++++++++++++++++++++to 6.59935e-08
 Heightened Def Con from 6.59935e-08 ++++++++++++++++++++++++++++++to 6.65794e-08
 Heightened Def Con from 6.65794e-08 +++++++++++++++++++++++++++++to 6.67747e-08
 Heightened Def Con from 6.67747e-08 +++++++++++++++++++++++++++++to 6.697e-08
@@ -828,7 +849,6 @@ Heightened Def Con from 6.80565e-08 +++++++++++++++++++++++++++++to 6.80687e-08
 Heightened Def Con from 6.80687e-08 +++++++++++++++++++++++++++++to 6.80809e-08
 Heightened Def Con from 6.80809e-08 +++++++++++++++++++++++++++++to 6.80946e-08
 Heightened Def Con from 6.80946e-08 +++++++++++++++++++++++++++++to 6.80961e-08
-Heightened Def Con from 6.80961e-08 +++++++++++++++++++++++++++++to 6.80961e-08
 Heightened Def Con from 6.80961e-08 +++++++++++++++++++++++++++++++to 6.86821e-08
 Heightened Def Con from 6.86821e-08 +++++++++++++++++++++++++++++to 6.87797e-08
 Heightened Def Con from 6.87797e-08 +++++++++++++++++++++++++++++to 6.88774e-08
@@ -953,18 +973,6 @@ Heightened Def Con from 8.09952e-08 +++++++++++++++++++++++++++++to 8.09954e-08
 Heightened Def Con from 8.09954e-08 +++++++++++++++++++++++++++++to 8.09956e-08
 Heightened Def Con from 8.09956e-08 +++++++++++++++++++++++++++++to 8.09958e-08
 Heightened Def Con from 8.09958e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
-Heightened Def Con from 8.0996e-08 +++++++++++++++++++++++++++++to 8.0996e-08
 Heightened Def Con from 8.0996e-08 ++++++++++++++++++++++++++++++to 8.10937e-08
 Heightened Def Con from 8.10937e-08 ++++++++++++++++++++++++++++++to 8.1582e-08
 Heightened Def Con from 8.1582e-08 +++++++++++++++++++++++++++++to 8.17773e-08
@@ -984,6 +992,8 @@ Heightened Def Con from 8.3059e-08 +++++++++++++++++++++++++++++to 8.30712e-08
 Heightened Def Con from 8.30712e-08 +++++++++++++++++++++++++++++to 8.30834e-08
 Heightened Def Con from 8.30834e-08 +++++++++++++++++++++++++++++to 8.30972e-08
 Heightened Def Con from 8.30972e-08 +++++++++++++++++++++++++++++to 8.30989e-08
+Heightened Def Con from 8.30989e-08 +++++++++++++++++++++++++++++to 8.30989e-08
+Heightened Def Con from 8.30989e-08 +++++++++++++++++++++++++++++to 8.30989e-08
 Heightened Def Con from 8.30989e-08 +++++++++++++++++++++++++++++++to 8.36848e-08
 Heightened Def Con from 8.36848e-08 +++++++++++++++++++++++++++++to 8.37825e-08
 Heightened Def Con from 8.37825e-08 +++++++++++++++++++++++++++++to 8.38801e-08
@@ -1012,7 +1022,6 @@ Heightened Def Con from 8.59431e-08 +++++++++++++++++++++++++++++to 8.59553e-08
 Heightened Def Con from 8.59553e-08 +++++++++++++++++++++++++++++to 8.59675e-08
 Heightened Def Con from 8.59675e-08 +++++++++++++++++++++++++++++to 8.59797e-08
 Heightened Def Con from 8.59797e-08 +++++++++++++++++++++++++++++to 8.59935e-08
-Heightened Def Con from 8.59935e-08 +++++++++++++++++++++++++++++to 8.59935e-08
 Heightened Def Con from 8.59935e-08 ++++++++++++++++++++++++++++++to 8.65794e-08
 Heightened Def Con from 8.65794e-08 +++++++++++++++++++++++++++++to 8.67747e-08
 Heightened Def Con from 8.67747e-08 +++++++++++++++++++++++++++++to 8.697e-08
@@ -1057,21 +1066,21 @@ Heightened Def Con from 9.6e-08 +++++++++++++++++++++++++++++++to 9.65859e-08
 Heightened Def Con from 9.81e-08 ++++++++++++++++++++++++++++++to 9.81977e-08
 Heightened Def Con from 9.81977e-08 ++++++++++++++++++++++++++++++to 9.8686e-08
 
-Date: Sun Oct 22 12:44:08 2023
-Total elapsed time: 45.528 seconds.
+Date: Mon Oct 23 10:36:39 2023
+Total elapsed time: 67.887 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 3603984
-traniter = 3603941
-tranpoints = 328952
-accept = 32016
-rejected = 326609
+totiter = 3636567
+traniter = 3636524
+tranpoints = 331918
+accept = 32293
+rejected = 329566
 matrix size = 40
 fillins = 20
 solver = Normal
-Avg thread counts: 1.0/1.7/1.1/1.0
-Matrix Compiler1: 5.12 KB object code size  2.4/1.7/[0.7]
-Matrix Compiler2: 4.88 KB object code size  1.4/1.6/[0.7]
+Avg thread counts: 2.0/1.7/1.1/1.0
+Matrix Compiler1: 5.12 KB object code size  3.0/2.3/[0.9]
+Matrix Compiler2: 4.88 KB object code size  1.9/1.6/[0.6]
 

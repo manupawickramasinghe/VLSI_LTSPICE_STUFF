@@ -26126,8 +26126,8 @@ Heightened Def Con from 9.65859e-08 +++++++++++++++++++++++++++++to 9.67813e-08
 Heightened Def Con from 9.81e-08 ++++++++++++++++++++++++++++++to 9.81977e-08
 Heightened Def Con from 9.81977e-08 ++++++++++++++++++++++++++++++to 9.8686e-08
 
-Date: Sun Oct 22 20:44:39 2023
-Total elapsed time: 492.808 seconds.
+Date: Mon Oct 23 10:40:41 2023
+Total elapsed time: 548.076 seconds.
 
 tnom = 27
 temp = 27
@@ -26141,6 +26141,6 @@ matrix size = 50
 fillins = 38
 solver = Normal
 Avg thread counts: 1.0/1.0/1.1/1.0
-Matrix Compiler1: 7.37 KB object code size  3.0/2.1/[1.2]
-Matrix Compiler2: 6.30 KB object code size  1.7/1.8/[0.8]
+Matrix Compiler1: 7.37 KB object code size  4.6/2.4/[0.9]
+Matrix Compiler2: 6.30 KB object code size  1.9/1.7/[0.5]
 

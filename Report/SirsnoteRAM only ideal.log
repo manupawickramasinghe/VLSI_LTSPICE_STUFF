@@ -1,0 +1,163 @@
+Circuit: * D:\Documents\GitHub\VLSI_LTSPICE_STUFF\Report\SirsnoteRAM only ideal.asc
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v2.  Increasing period to 1e-07
+Limiting rise time of source v2 to 1.98523e-23
+Limiting fall time of source v2 to 1.98523e-23
+WARNING: Node N010 is floating.
+WARNING: Node N001 is floating.
+WARNING: Node N007 is floating.
+WARNING: Node N009 is floating.
+WARNING: Node N014 is floating.
+WARNING: Node N019 is floating.
+WARNING: Node N021 is floating.
+WARNING: Node N028 is floating.
+WARNING: Node N020 is floating.
+WARNING: Node N011 is floating.
+WARNING: Node N016 is floating.
+WARNING: Node N012 is floating.
+WARNING: Node N017 is floating.
+WARNING: Node N004 is floating.
+WARNING: Node N008 is floating.
+WARNING: Node N026 is floating.
+WARNING: Node N025 is floating.
+WARNING: Node N023 is floating.
+WARNING: Node N030 is floating.
+
+WARNING: Less than two connections to node a.  This node is used by v4.
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 1e-08 ++++++++++++++++++++++to 1.00049e-08
+Heightened Def Con from 1.00049e-08 +++++++++++++++++++++to 1.01026e-08
+Heightened Def Con from 1.01026e-08 +++++++++++++++++++++to 1.02002e-08
+Heightened Def Con from 1.02002e-08 +++++++++++++++++++++to 1.02979e-08
+Heightened Def Con from 1.02979e-08 +++++++++++++++++++++to 1.03955e-08
+Heightened Def Con from 1.03955e-08 +++++++++++++++++++++to 1.04932e-08
+Heightened Def Con from 1.04932e-08 +++++++++++++++++++++to 1.05908e-08
+Heightened Def Con from 1.05908e-08 +++++++++++++++++++++to 1.06885e-08
+Heightened Def Con from 1.06885e-08 +++++++++++++++++++++to 1.07862e-08
+Heightened Def Con from 1.07862e-08 +++++++++++++++++++++to 1.08838e-08
+Heightened Def Con from 1.08838e-08 +++++++++++++++++++++to 1.1e-08
+Heightened Def Con from 1.1e-08 +++++++++++++++++++++to 1.10098e-08
+Heightened Def Con from 1.10098e-08 +++++++++++++++++++++to 1.11e-08
+Heightened Def Con from 1.11e-08 +++++++++++++++++++++to 1.11098e-08
+Heightened Def Con from 1.11098e-08 +++++++++++++++++++++to 1.12074e-08
+Heightened Def Con from 1.12074e-08 +++++++++++++++++++++to 1.13051e-08
+Heightened Def Con from 1.13051e-08 +++++++++++++++++++++to 1.14027e-08
+Heightened Def Con from 1.14027e-08 +++++++++++++++++++++to 1.15004e-08
+Heightened Def Con from 1.15004e-08 +++++++++++++++++++++to 1.1598e-08
+Heightened Def Con from 1.1598e-08 +++++++++++++++++++++to 1.16957e-08
+Heightened Def Con from 1.16957e-08 +++++++++++++++++++++to 1.17934e-08
+Heightened Def Con from 1.17934e-08 +++++++++++++++++++++to 1.1891e-08
+Heightened Def Con from 1.1891e-08 +++++++++++++++++++++to 1.19887e-08
+Heightened Def Con from 1.19887e-08 +++++++++++++++++++++to 1.20863e-08
+Heightened Def Con from 1.20863e-08 +++++++++++++++++++++to 1.2184e-08
+Heightened Def Con from 1.2184e-08 +++++++++++++++++++++to 1.22816e-08
+Heightened Def Con from 1.22816e-08 +++++++++++++++++++++to 1.23793e-08
+Heightened Def Con from 1.23793e-08 +++++++++++++++++++++to 1.2477e-08
+Heightened Def Con from 1.2477e-08 +++++++++++++++++++++to 1.25746e-08
+Heightened Def Con from 1.25746e-08 +++++++++++++++++++++to 1.26723e-08
+Heightened Def Con from 1.26723e-08 +++++++++++++++++++++to 1.27699e-08
+Heightened Def Con from 1.27699e-08 +++++++++++++++++++++to 1.28676e-08
+Heightened Def Con from 1.28676e-08 +++++++++++++++++++++to 1.29652e-08
+Heightened Def Con from 1.29652e-08 +++++++++++++++++++++to 1.31e-08
+Heightened Def Con from 1.31e-08 +++++++++++++++++++++to 1.31098e-08
+Heightened Def Con from 1.31098e-08 +++++++++++++++++++++to 1.32e-08
+Heightened Def Con from 1.32e-08 +++++++++++++++++++++to 1.32098e-08
+Heightened Def Con from 1.32098e-08 +++++++++++++++++++++to 1.33074e-08
+Heightened Def Con from 1.33074e-08 +++++++++++++++++++++to 1.34051e-08
+Heightened Def Con from 1.34051e-08 +++++++++++++++++++++to 1.35027e-08
+Heightened Def Con from 1.35027e-08 +++++++++++++++++++++to 1.36004e-08
+Heightened Def Con from 1.36004e-08 +++++++++++++++++++++to 1.3698e-08
+Heightened Def Con from 1.3698e-08 +++++++++++++++++++++to 1.37957e-08
+Heightened Def Con from 1.37957e-08 +++++++++++++++++++++to 1.38934e-08
+Heightened Def Con from 1.38934e-08 +++++++++++++++++++++to 1.3991e-08
+Heightened Def Con from 1.3991e-08 +++++++++++++++++++++to 1.40887e-08
+Heightened Def Con from 1.40887e-08 +++++++++++++++++++++to 1.41863e-08
+Heightened Def Con from 1.41863e-08 +++++++++++++++++++++to 1.4284e-08
+Heightened Def Con from 1.4284e-08 +++++++++++++++++++++to 1.43816e-08
+Heightened Def Con from 1.43816e-08 +++++++++++++++++++++to 1.44793e-08
+Heightened Def Con from 1.44793e-08 +++++++++++++++++++++to 1.4577e-08
+Heightened Def Con from 1.4577e-08 +++++++++++++++++++++to 1.46746e-08
+Heightened Def Con from 1.46746e-08 +++++++++++++++++++++to 1.47723e-08
+Heightened Def Con from 1.47723e-08 +++++++++++++++++++++to 1.48699e-08
+Heightened Def Con from 1.48699e-08 +++++++++++++++++++++to 1.49676e-08
+Heightened Def Con from 1.49676e-08 +++++++++++++++++++++to 1.50652e-08
+Heightened Def Con from 1.50652e-08 +++++++++++++++++++++to 1.51629e-08
+Heightened Def Con from 1.51629e-08 +++++++++++++++++++++to 1.52605e-08
+Heightened Def Con from 1.52605e-08 +++++++++++++++++++++to 1.53582e-08
+Heightened Def Con from 1.53582e-08 +++++++++++++++++++++to 1.54559e-08
+Heightened Def Con from 1.54559e-08 +++++++++++++++++++++to 1.55535e-08
+Heightened Def Con from 1.55535e-08 +++++++++++++++++++++to 1.56512e-08
+Heightened Def Con from 1.56512e-08 +++++++++++++++++++++to 1.57488e-08
+Heightened Def Con from 1.57488e-08 +++++++++++++++++++++to 1.58465e-08
+Heightened Def Con from 1.58465e-08 +++++++++++++++++++++to 1.6e-08
+Heightened Def Con from 1.6e-08 +++++++++++++++++++++to 1.60098e-08
+Heightened Def Con from 1.60098e-08 +++++++++++++++++++++to 1.61e-08
+Heightened Def Con from 1.61e-08 +++++++++++++++++++++to 1.61098e-08
+Heightened Def Con from 1.61098e-08 +++++++++++++++++++++to 1.62074e-08
+Heightened Def Con from 1.62074e-08 +++++++++++++++++++++to 1.63051e-08
+Heightened Def Con from 1.63051e-08 +++++++++++++++++++++to 1.64027e-08
+Heightened Def Con from 1.64027e-08 +++++++++++++++++++++to 1.65004e-08
+Heightened Def Con from 1.65004e-08 +++++++++++++++++++++to 1.6598e-08
+Heightened Def Con from 1.6598e-08 +++++++++++++++++++++to 1.66957e-08
+Heightened Def Con from 1.66957e-08 +++++++++++++++++++++to 1.67934e-08
+Heightened Def Con from 1.67934e-08 +++++++++++++++++++++to 1.6891e-08
+Heightened Def Con from 1.6891e-08 +++++++++++++++++++++to 1.69887e-08
+Heightened Def Con from 1.69887e-08 +++++++++++++++++++++to 1.70863e-08
+Heightened Def Con from 1.70863e-08 +++++++++++++++++++++to 1.7184e-08
+Heightened Def Con from 1.7184e-08 +++++++++++++++++++++to 1.72816e-08
+Heightened Def Con from 1.72816e-08 +++++++++++++++++++++to 1.73793e-08
+Heightened Def Con from 1.73793e-08 +++++++++++++++++++++to 1.7477e-08
+Heightened Def Con from 1.7477e-08 +++++++++++++++++++++to 1.75746e-08
+Heightened Def Con from 1.75746e-08 +++++++++++++++++++++to 1.76723e-08
+Heightened Def Con from 1.76723e-08 +++++++++++++++++++++to 1.77699e-08
+Heightened Def Con from 1.77699e-08 +++++++++++++++++++++to 1.78676e-08
+Heightened Def Con from 1.78676e-08 +++++++++++++++++++++to 1.79652e-08
+Heightened Def Con from 1.79652e-08 +++++++++++++++++++++to 1.81e-08
+Heightened Def Con from 1.81e-08 +++++++++++++++++++++to 1.81098e-08
+Heightened Def Con from 1.81098e-08 +++++++++++++++++++++to 1.82e-08
+Heightened Def Con from 1.82e-08 +++++++++++++++++++++to 1.82098e-08
+Heightened Def Con from 1.82098e-08 +++++++++++++++++++++to 1.83074e-08
+Heightened Def Con from 1.83074e-08 +++++++++++++++++++++to 1.84051e-08
+Heightened Def Con from 1.84051e-08 +++++++++++++++++++++to 1.85027e-08
+Heightened Def Con from 1.85027e-08 +++++++++++++++++++++to 1.86004e-08
+Heightened Def Con from 1.86004e-08 +++++++++++++++++++++to 1.8698e-08
+Heightened Def Con from 1.8698e-08 +++++++++++++++++++++to 1.87957e-08
+Heightened Def Con from 1.87957e-08 +++++++++++++++++++++to 1.88934e-08
+Heightened Def Con from 1.88934e-08 +++++++++++++++++++++to 1.8991e-08
+Heightened Def Con from 1.8991e-08 +++++++++++++++++++++to 1.90887e-08
+Heightened Def Con from 1.90887e-08 +++++++++++++++++++++to 1.91863e-08
+Heightened Def Con from 1.91863e-08 +++++++++++++++++++++to 1.9284e-08
+Heightened Def Con from 1.9284e-08 +++++++++++++++++++++to 1.93816e-08
+Heightened Def Con from 1.93816e-08 +++++++++++++++++++++to 1.94793e-08
+Heightened Def Con from 1.94793e-08 +++++++++++++++++++++to 1.9577e-08
+Heightened Def Con from 1.9577e-08 +++++++++++++++++++++to 1.96746e-08
+Heightened Def Con from 1.96746e-08 +++++++++++++++++++++to 1.97723e-08
+Heightened Def Con from 1.97723e-08 +++++++++++++++++++++to 1.98699e-08
+Heightened Def Con from 1.98699e-08 +++++++++++++++++++++to 2e-08
+Heightened Def Con from 2e-08 +++++++++++++++++++++to 2.00098e-08
+Heightened Def Con from 2.00098e-08 +++++++++++++++++++++to 2.0021e-08
+Heightened Def Con from 2.0021e-08 +++++++++++++++++++++to 2.00309e-08
+Heightened Def Con from 2.00309e-08 +++++++++++++++++++++to 2.01e-08
+Heightened Def Con from 2.01e-08 ++++++++++++++++++++to 2.01098e-08
+Heightened Def Con from 2.01098e-08 ++++++++++++++to 2.02074e-08
+Heightened Def Con from 2.02074e-08 ++++to 2.03051e-08
+Heightened Def Con from 2.03051e-08 to 2.04027e-08
+
+Date: Mon Oct 23 10:01:27 2023
+Total elapsed time: 7.479 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 316773
+traniter = 316724
+tranpoints = 30931
+accept = 5347
+rejected = 28113
+matrix size = 53
+fillins = 35
+solver = Normal
+Avg thread counts: 2.0/1.8/1.9/1.0
+Matrix Compiler1: 6.97 KB object code size  2.9/1.8/[0.9]
+Matrix Compiler2: 6.43 KB object code size  1.4/1.9/[0.6]
+
